@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm A. Henrie</h1>
 <h3 align="center">I like to code and wear tinfoil hats.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
