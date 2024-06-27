@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A. Henrie</h1>
 <h3 align="center">I like to code and wear tinfoil hats.</h3>
 
-- 🌱 I’m currently learning **Go, Ansible Play Books, and maybe some Zig.**
+- 🌱 I’m currently learning **Go, Ansible Play Books, C#, and maybe some Zig.**
 
 <p align="left">
 </p>
